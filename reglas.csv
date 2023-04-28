@@ -1,0 +1,323 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'Temperatura_Muy_Bajo'}),frozenset({'Temperatura_min_Muy_Bajo'}),0.2,0.2,0.2,1.0,5.0,0.16,inf
+1,frozenset({'Temperatura_min_Muy_Bajo'}),frozenset({'Temperatura_Muy_Bajo'}),0.2,0.2,0.2,1.0,5.0,0.16,inf
+254,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+256,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+309,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+311,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+196,"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})",0.225,0.325,0.225,1.0,3.0769230769230766,0.15187499999999998,inf
+70,"frozenset({'Temperatura_Medio', 'MP10_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.25,1.0,2.6666666666666665,0.15625,inf
+90,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+106,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+170,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto', 'Influenza_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.225,1.0,2.6666666666666665,0.140625,inf
+178,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'MP10_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.225,1.0,2.6666666666666665,0.140625,inf
+226,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto', 'MP10_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+252,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+25,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.275,0.4,0.275,1.0,2.5,0.165,inf
+33,"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.225,1.0,2.5,0.135,inf
+37,"frozenset({'Neumonia_Medio', 'Temperatura_max_Alto'})",frozenset({'Temperatura_Medio'}),0.25,0.4,0.25,1.0,2.5,0.15,inf
+61,"frozenset({'Rocio_Medio', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.225,1.0,2.5,0.135,inf
+64,"frozenset({'Rocio_Medio', 'Temperatura_max_Alto'})",frozenset({'Temperatura_Medio'}),0.2,0.4,0.2,1.0,2.5,0.12,inf
+149,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_Medio'}),0.2,0.4,0.2,1.0,2.5,0.12,inf
+163,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.2,0.4,0.2,1.0,2.5,0.12,inf
+171,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.225,1.0,2.5,0.135,inf
+180,"frozenset({'Influenza_Muy_Bajo', 'MP10_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.225,1.0,2.5,0.135,inf
+192,"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio', 'Temperatura_max_Alto'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.225,1.0,2.5,0.135,inf
+307,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_Medio'}),0.2,0.4,0.2,1.0,2.5,0.12,inf
+280,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})","frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.2,0.425,0.2,1.0,2.3529411764705883,0.115,inf
+281,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})",0.2,0.425,0.2,1.0,2.3529411764705883,0.115,inf
+40,"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio'})",frozenset({'Temperatura_max_Alto'}),0.225,0.45,0.225,1.0,2.2222222222222223,0.12375,inf
+190,"frozenset({'Temperatura_Medio', 'Neumonia_Medio', 'Temperatura_min_Medio'})",frozenset({'Temperatura_max_Alto'}),0.225,0.45,0.225,1.0,2.2222222222222223,0.12375,inf
+98,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'IRA_Alta_Bajo'}),0.2,0.5,0.2,1.0,2.0,0.1,inf
+114,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",frozenset({'IRA_Alta_Bajo'}),0.2,0.5,0.2,1.0,2.0,0.1,inf
+273,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'IRA_Alta_Bajo'}),0.2,0.5,0.2,1.0,2.0,0.1,inf
+3,frozenset({'Temperatura_min_Medio'}),frozenset({'Temperatura_Medio'}),0.375,0.4,0.35,0.9333333333333332,2.333333333333333,0.19999999999999996,8.999999999999988
+66,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})",frozenset({'Temperatura_min_Medio'}),0.325,0.375,0.3,0.923076923076923,2.4615384615384612,0.17812499999999998,8.124999999999993
+67,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.325,0.4,0.3,0.923076923076923,2.3076923076923075,0.16999999999999998,7.799999999999994
+24,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.3,0.375,0.275,0.9166666666666667,2.4444444444444446,0.16250000000000003,7.500000000000007
+19,frozenset({'Rocio_Alto'}),"frozenset({'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.45,0.275,0.9166666666666667,2.037037037037037,0.14,6.600000000000007
+21,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo'})",0.3,0.45,0.275,0.9166666666666667,2.037037037037037,0.14,6.600000000000007
+133,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})","frozenset({'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.45,0.275,0.9166666666666667,2.037037037037037,0.14,6.600000000000007
+135,"frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo'})",0.3,0.45,0.275,0.9166666666666667,2.037037037037037,0.14,6.600000000000007
+137,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.45,0.275,0.9166666666666667,2.037037037037037,0.14,6.600000000000007
+71,"frozenset({'MP10_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.275,0.4,0.25,0.9090909090909091,2.2727272727272725,0.13999999999999999,6.599999999999998
+36,"frozenset({'Temperatura_Medio', 'Neumonia_Medio'})",frozenset({'Temperatura_max_Alto'}),0.275,0.45,0.25,0.9090909090909091,2.02020202020202,0.12624999999999997,6.049999999999998
+210,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.25,0.225,0.9,3.6,0.1625,7.500000000000002
+211,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.25,0.225,0.9,3.6,0.1625,7.500000000000002
+212,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.25,0.225,0.9,3.6,0.1625,7.500000000000002
+213,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.25,0.25,0.225,0.9,3.6,0.1625,7.500000000000002
+182,"frozenset({'Temperatura_Medio', 'MP10_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.275,0.225,0.9,3.2727272727272725,0.15625,7.250000000000002
+197,"frozenset({'Neumonia_Medio', 'Temperatura_max_Alto'})","frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})",0.25,0.35,0.225,0.9,2.5714285714285716,0.1375,6.500000000000002
+4,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+41,"frozenset({'Neumonia_Medio', 'Temperatura_max_Alto'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+46,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+54,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+76,"frozenset({'Temperatura_max_Alto', 'MP10_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+191,"frozenset({'Temperatura_Medio', 'Neumonia_Medio', 'Temperatura_max_Alto'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+208,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+5,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.25,0.4,0.225,0.9,2.25,0.125,6.000000000000001
+47,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_Medio'}),0.25,0.4,0.225,0.9,2.25,0.125,6.000000000000001
+55,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.25,0.4,0.225,0.9,2.25,0.125,6.000000000000001
+209,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_Medio'}),0.25,0.4,0.225,0.9,2.25,0.125,6.000000000000001
+86,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.425,0.225,0.9,2.1176470588235294,0.11875000000000001,5.750000000000001
+88,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})",0.25,0.425,0.225,0.9,2.1176470588235294,0.11875000000000001,5.750000000000001
+8,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_max_Alto'}),0.25,0.45,0.225,0.9,2.0,0.1125,5.500000000000002
+13,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_max_Alto'}),0.25,0.45,0.225,0.9,2.0,0.1125,5.500000000000002
+138,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})","frozenset({'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.45,0.225,0.9,2.0,0.1125,5.500000000000002
+140,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo'})",0.25,0.45,0.225,0.9,2.0,0.1125,5.500000000000002
+255,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.25,0.2,0.888888888888889,3.555555555555556,0.14375000000000002,6.7500000000000036
+257,"frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.225,0.25,0.2,0.888888888888889,3.555555555555556,0.14375000000000002,6.7500000000000036
+275,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.25,0.2,0.888888888888889,3.555555555555556,0.14375000000000002,6.7500000000000036
+277,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.225,0.25,0.2,0.888888888888889,3.555555555555556,0.14375000000000002,6.7500000000000036
+308,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Influenza_Muy_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.25,0.2,0.888888888888889,3.555555555555556,0.14375000000000002,6.7500000000000036
+310,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.225,0.25,0.2,0.888888888888889,3.555555555555556,0.14375000000000002,6.7500000000000036
+274,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.3,0.2,0.888888888888889,2.9629629629629632,0.1325,6.300000000000003
+276,"frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.225,0.3,0.2,0.888888888888889,2.9629629629629632,0.1325,6.300000000000003
+99,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+115,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+122,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+148,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+162,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Influenza_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+272,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+306,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.225,0.375,0.2,0.888888888888889,2.3703703703703707,0.115625,5.6250000000000036
+91,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+107,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+123,"frozenset({'IRA_Alta_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+227,"frozenset({'Temperatura_max_Alto', 'MP10_Bajo', 'Temperatura_min_Medio'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+253,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Temperatura_Medio'}),0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+82,"frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})","frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+85,"frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+242,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})","frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+243,"frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+249,"frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+260,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Temperatura_min_Medio'})","frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+261,"frozenset({'Temperatura_Medio', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})",0.225,0.425,0.2,0.888888888888889,2.0915032679738563,0.10437500000000001,5.1750000000000025
+2,frozenset({'Temperatura_Medio'}),frozenset({'Temperatura_min_Medio'}),0.4,0.375,0.35,0.8749999999999999,2.333333333333333,0.19999999999999996,4.999999999999996
+185,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'MP10_Bajo'})",0.275,0.25,0.225,0.8181818181818181,3.2727272727272725,0.15625,4.124999999999998
+186,"frozenset({'MP10_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.275,0.3,0.225,0.8181818181818181,2.727272727272727,0.14250000000000002,3.8499999999999983
+175,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})",0.275,0.325,0.225,0.8181818181818181,2.517482517482517,0.135625,3.712499999999999
+193,"frozenset({'Temperatura_Medio', 'Neumonia_Medio'})","frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.275,0.325,0.225,0.8181818181818181,2.517482517482517,0.135625,3.712499999999999
+12,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.275,0.375,0.225,0.8181818181818181,2.1818181818181817,0.121875,3.4374999999999987
+32,"frozenset({'Temperatura_Medio', 'Neumonia_Medio'})",frozenset({'Temperatura_min_Medio'}),0.275,0.375,0.225,0.8181818181818181,2.1818181818181817,0.121875,3.4374999999999987
+60,"frozenset({'Rocio_Medio', 'Temperatura_Medio'})",frozenset({'Temperatura_min_Medio'}),0.275,0.375,0.225,0.8181818181818181,2.1818181818181817,0.121875,3.4374999999999987
+9,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",frozenset({'Temperatura_Medio'}),0.275,0.4,0.225,0.8181818181818181,2.045454545454545,0.11499999999999999,3.299999999999999
+29,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",frozenset({'MP10_Bajo'}),0.275,0.4,0.225,0.8181818181818181,2.045454545454545,0.11499999999999999,3.299999999999999
+179,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",frozenset({'MP10_Bajo'}),0.275,0.4,0.225,0.8181818181818181,2.045454545454545,0.11499999999999999,3.299999999999999
+267,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+269,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+316,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+318,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+266,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})","frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.225,0.2,0.8,3.555555555555556,0.14375000000000002,3.875000000000001
+268,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo'})",0.25,0.225,0.2,0.8,3.555555555555556,0.14375000000000002,3.875000000000001
+286,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.225,0.2,0.8,3.555555555555556,0.14375000000000002,3.875000000000001
+288,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.25,0.225,0.2,0.8,3.555555555555556,0.14375000000000002,3.875000000000001
+317,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.225,0.2,0.8,3.555555555555556,0.14375000000000002,3.875000000000001
+319,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.25,0.225,0.2,0.8,3.555555555555556,0.14375000000000002,3.875000000000001
+92,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+93,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+94,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+95,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+108,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})","frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+109,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+110,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+111,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+258,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+259,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+264,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+265,"frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+103,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+117,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+151,"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+164,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+278,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+312,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+102,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+119,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+142,"frozenset({'COVID19_Confirmado_u_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",frozenset({'Rocio_Alto'}),0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+153,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+156,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",frozenset({'Rocio_Alto'}),0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+165,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+217,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+219,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+284,"frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+292,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Rocio_Alto'}),0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+294,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+296,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+313,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.25,0.3,0.2,0.8,2.666666666666667,0.125,3.5000000000000004
+126,"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.25,0.325,0.2,0.8,2.4615384615384617,0.11875000000000001,3.375000000000001
+129,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})",0.25,0.325,0.2,0.8,2.4615384615384617,0.11875000000000001,3.375000000000001
+222,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.25,0.325,0.2,0.8,2.4615384615384617,0.11875000000000001,3.375000000000001
+224,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})",0.25,0.325,0.2,0.8,2.4615384615384617,0.11875000000000001,3.375000000000001
+229,"frozenset({'Temperatura_Medio', 'MP10_Bajo'})","frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.25,0.325,0.2,0.8,2.4615384615384617,0.11875000000000001,3.375000000000001
+231,"frozenset({'Temperatura_max_Alto', 'MP10_Bajo'})","frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})",0.25,0.35,0.2,0.8,2.285714285714286,0.11250000000000002,3.250000000000001
+16,"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",frozenset({'MP10_Bajo'}),0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+50,"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'MP10_Bajo'}),0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+58,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",frozenset({'MP10_Bajo'}),0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+74,"frozenset({'Temperatura_max_Alto', 'MP10_Bajo'})",frozenset({'Temperatura_Medio'}),0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+220,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'MP10_Bajo'}),0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+69,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})",0.375,0.325,0.3,0.7999999999999999,2.4615384615384612,0.17812499999999998,3.374999999999999
+181,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})","frozenset({'MP10_Bajo', 'Temperatura_min_Medio'})",0.3,0.275,0.225,0.75,2.727272727272727,0.14250000000000002,2.9
+44,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Rocio_Alto'}),0.3,0.3,0.225,0.75,2.5,0.135,2.8
+45,frozenset({'Rocio_Alto'}),"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+52,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",frozenset({'Rocio_Alto'}),0.3,0.3,0.225,0.75,2.5,0.135,2.8
+53,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+202,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Rocio_Alto'}),0.3,0.3,0.225,0.75,2.5,0.135,2.8
+203,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})","frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+204,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+205,"frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+206,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+207,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.3,0.225,0.75,2.5,0.135,2.8
+173,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})","frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.3,0.325,0.225,0.75,2.3076923076923075,0.1275,2.7
+184,"frozenset({'Influenza_Muy_Bajo', 'MP10_Bajo'})","frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})",0.3,0.35,0.225,0.75,2.142857142857143,0.12000000000000001,2.6
+28,"frozenset({'Influenza_Muy_Bajo', 'MP10_Bajo'})",frozenset({'Temperatura_min_Medio'}),0.3,0.375,0.225,0.75,2.0,0.11250000000000002,2.5
+68,frozenset({'Temperatura_Medio'}),"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.4,0.325,0.3,0.7499999999999999,2.3076923076923075,0.16999999999999998,2.699999999999999
+27,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.375,0.3,0.275,0.7333333333333334,2.4444444444444446,0.16250000000000003,2.6250000000000004
+100,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+118,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+152,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+167,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+285,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+315,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+143,"frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo'})","frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.3,0.2,0.7272727272727273,2.4242424242424243,0.11750000000000001,2.566666666666667
+159,"frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.275,0.3,0.2,0.7272727272727273,2.4242424242424243,0.11750000000000001,2.566666666666667
+293,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto', 'Influenza_Muy_Bajo'})","frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.3,0.2,0.7272727272727273,2.4242424242424243,0.11750000000000001,2.566666666666667
+295,"frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})",0.275,0.3,0.2,0.7272727272727273,2.4242424242424243,0.11750000000000001,2.566666666666667
+299,"frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.3,0.2,0.7272727272727273,2.4242424242424243,0.11750000000000001,2.566666666666667
+233,"frozenset({'MP10_Bajo', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})",0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+236,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+237,"frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})",0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+128,"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})",0.275,0.35,0.2,0.7272727272727273,2.077922077922078,0.10375000000000001,2.3833333333333337
+195,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})","frozenset({'Neumonia_Medio', 'Temperatura_min_Medio'})",0.325,0.225,0.225,0.6923076923076923,3.0769230769230766,0.15187499999999998,2.51875
+172,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.325,0.275,0.225,0.6923076923076923,2.517482517482517,0.135625,2.3562499999999997
+198,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Neumonia_Medio'})",0.325,0.275,0.225,0.6923076923076923,2.517482517482517,0.135625,2.3562499999999997
+174,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.325,0.3,0.225,0.6923076923076923,2.307692307692308,0.1275,2.275
+26,frozenset({'Temperatura_Medio'}),"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.4,0.275,0.275,0.6875,2.5,0.165,2.32
+287,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.225,0.2,0.6666666666666667,2.9629629629629632,0.1325,2.3250000000000006
+289,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo'})",0.3,0.225,0.2,0.6666666666666667,2.9629629629629632,0.1325,2.3250000000000006
+101,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+116,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+147,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_u_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+150,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+161,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+166,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+216,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+218,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+279,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Temperatura_min_Medio', 'IRA_Alta_Bajo'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+301,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+303,"frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+305,frozenset({'Rocio_Alto'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+314,"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.25,0.2,0.6666666666666667,2.666666666666667,0.125,2.2500000000000004
+146,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo'})",0.3,0.275,0.2,0.6666666666666667,2.4242424242424243,0.11750000000000001,2.1750000000000003
+158,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo'})",0.3,0.275,0.2,0.6666666666666667,2.4242424242424243,0.11750000000000001,2.1750000000000003
+298,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo'})",0.3,0.275,0.2,0.6666666666666667,2.4242424242424243,0.11750000000000001,2.1750000000000003
+302,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Rocio_Alto', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.275,0.2,0.6666666666666667,2.4242424242424243,0.11750000000000001,2.1750000000000003
+304,"frozenset({'Temperatura_max_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto', 'Influenza_Muy_Bajo'})",0.3,0.275,0.2,0.6666666666666667,2.4242424242424243,0.11750000000000001,2.1750000000000003
+23,frozenset({'Rocio_Alto'}),"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+78,"frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+81,"frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+144,"frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+157,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+239,"frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+245,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Otra_causa_respiratoria_Medio', 'IRA_Alta_Bajo'})","frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+246,"frozenset({'Otra_causa_respiratoria_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+297,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+73,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'MP10_Bajo'})",0.375,0.25,0.25,0.6666666666666666,2.6666666666666665,0.15625,2.2499999999999996
+194,"frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})","frozenset({'Neumonia_Medio', 'Temperatura_max_Alto'})",0.35,0.25,0.225,0.6428571428571429,2.5714285714285716,0.1375,2.1
+183,"frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})","frozenset({'Influenza_Muy_Bajo', 'MP10_Bajo'})",0.35,0.3,0.225,0.6428571428571429,2.1428571428571432,0.12000000000000001,1.9600000000000002
+38,frozenset({'Temperatura_Medio'}),"frozenset({'Neumonia_Medio', 'Temperatura_max_Alto'})",0.4,0.25,0.25,0.625,2.5,0.15,2.0
+72,frozenset({'Temperatura_Medio'}),"frozenset({'MP10_Bajo', 'Temperatura_min_Medio'})",0.4,0.275,0.25,0.625,2.2727272727272725,0.13999999999999999,1.9333333333333333
+124,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})","frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.325,0.25,0.2,0.6153846153846154,2.4615384615384617,0.11875000000000001,1.9500000000000002
+127,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.325,0.25,0.2,0.6153846153846154,2.4615384615384617,0.11875000000000001,1.9500000000000002
+221,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.325,0.25,0.2,0.6153846153846154,2.4615384615384617,0.11875000000000001,1.9500000000000002
+223,"frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.325,0.25,0.2,0.6153846153846154,2.4615384615384617,0.11875000000000001,1.9500000000000002
+232,"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio'})","frozenset({'Temperatura_Medio', 'MP10_Bajo'})",0.325,0.25,0.2,0.6153846153846154,2.4615384615384617,0.11875000000000001,1.9500000000000002
+228,"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto'})","frozenset({'MP10_Bajo', 'Temperatura_min_Medio'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+240,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+241,"frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+22,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})",frozenset({'Rocio_Alto'}),0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+79,"frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+80,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+145,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+160,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+238,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Influenza_Muy_Bajo', 'IRA_Alta_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+247,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'MP10_Bajo'})","frozenset({'Otra_causa_respiratoria_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+248,"frozenset({'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Otra_causa_respiratoria_Medio', 'IRA_Alta_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+300,"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+18,"frozenset({'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Rocio_Alto'}),0.45,0.3,0.275,0.6111111111111112,2.037037037037037,0.14,1.8
+20,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo'})",frozenset({'Rocio_Alto'}),0.45,0.3,0.275,0.6111111111111112,2.037037037037037,0.14,1.8
+132,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",frozenset({'Rocio_Alto'}),0.45,0.3,0.275,0.6111111111111112,2.037037037037037,0.14,1.8
+134,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo'})","frozenset({'Rocio_Alto', 'COVID19_Confirmado_u_Muy_Bajo'})",0.45,0.3,0.275,0.6111111111111112,2.037037037037037,0.14,1.8
+136,"frozenset({'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Rocio_Alto'})",0.45,0.3,0.275,0.6111111111111112,2.037037037037037,0.14,1.8
+177,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto', 'Influenza_Muy_Bajo'})",0.375,0.225,0.225,0.6,2.6666666666666665,0.140625,1.9375
+189,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'MP10_Bajo'})",0.375,0.225,0.225,0.6,2.6666666666666665,0.140625,1.9375
+7,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+42,frozenset({'Temperatura_min_Medio'}),"frozenset({'Neumonia_Medio', 'Temperatura_max_Alto'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+49,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+57,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+77,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_max_Alto', 'MP10_Bajo'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+200,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Neumonia_Medio', 'Temperatura_max_Alto'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+215,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+15,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.375,0.275,0.225,0.6,2.1818181818181817,0.121875,1.8124999999999998
+35,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Neumonia_Medio'})",0.375,0.275,0.225,0.6,2.1818181818181817,0.121875,1.8124999999999998
+63,frozenset({'Temperatura_min_Medio'}),"frozenset({'Rocio_Medio', 'Temperatura_Medio'})",0.375,0.275,0.225,0.6,2.1818181818181817,0.121875,1.8124999999999998
+31,frozenset({'Temperatura_min_Medio'}),"frozenset({'Influenza_Muy_Bajo', 'MP10_Bajo'})",0.375,0.3,0.225,0.6,2.0,0.11250000000000002,1.7499999999999998
+230,"frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})","frozenset({'Temperatura_max_Alto', 'MP10_Bajo'})",0.35,0.25,0.2,0.5714285714285715,2.285714285714286,0.11250000000000002,1.7500000000000002
+125,"frozenset({'Temperatura_Medio', 'Temperatura_min_Medio'})","frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.35,0.275,0.2,0.5714285714285715,2.077922077922078,0.10375000000000001,1.6916666666666669
+34,frozenset({'Temperatura_Medio'}),"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio'})",0.4,0.225,0.225,0.5625,2.5,0.135,1.7714285714285716
+62,frozenset({'Temperatura_Medio'}),"frozenset({'Rocio_Medio', 'Temperatura_min_Medio'})",0.4,0.225,0.225,0.5625,2.5,0.135,1.7714285714285716
+176,frozenset({'Temperatura_Medio'}),"frozenset({'Influenza_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.4,0.225,0.225,0.5625,2.5,0.135,1.7714285714285716
+187,frozenset({'Temperatura_Medio'}),"frozenset({'Influenza_Muy_Bajo', 'MP10_Bajo', 'Temperatura_min_Medio'})",0.4,0.225,0.225,0.5625,2.5,0.135,1.7714285714285716
+199,frozenset({'Temperatura_Medio'}),"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio', 'Temperatura_max_Alto'})",0.4,0.225,0.225,0.5625,2.5,0.135,1.7714285714285716
+6,frozenset({'Temperatura_Medio'}),"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.4,0.25,0.225,0.5625,2.25,0.125,1.7142857142857142
+48,frozenset({'Temperatura_Medio'}),"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.25,0.225,0.5625,2.25,0.125,1.7142857142857142
+56,frozenset({'Temperatura_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.4,0.25,0.225,0.5625,2.25,0.125,1.7142857142857142
+214,frozenset({'Temperatura_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.25,0.225,0.5625,2.25,0.125,1.7142857142857142
+10,frozenset({'Temperatura_Medio'}),"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.4,0.275,0.225,0.5625,2.0454545454545454,0.11499999999999999,1.657142857142857
+30,frozenset({'MP10_Bajo'}),"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.4,0.275,0.225,0.5625,2.0454545454545454,0.11499999999999999,1.657142857142857
+188,frozenset({'MP10_Bajo'}),"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.4,0.275,0.225,0.5625,2.0454545454545454,0.11499999999999999,1.657142857142857
+39,frozenset({'Temperatura_max_Alto'}),"frozenset({'Temperatura_Medio', 'Neumonia_Medio'})",0.45,0.275,0.25,0.5555555555555556,2.0202020202020203,0.12624999999999997,1.63125
+97,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+113,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+235,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto', 'MP10_Bajo'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+271,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+104,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_max_Alto', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+120,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+131,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Temperatura_max_Alto', 'IRA_Alta_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+155,frozenset({'Temperatura_min_Medio'}),"frozenset({'Temperatura_Medio', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+169,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Influenza_Muy_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+291,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+321,frozenset({'Temperatura_min_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.375,0.225,0.2,0.5333333333333333,2.3703703703703702,0.115625,1.6607142857142858
+87,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.425,0.25,0.225,0.5294117647058824,2.1176470588235294,0.11875000000000001,1.59375
+89,"frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.425,0.25,0.225,0.5294117647058824,2.1176470588235294,0.11875000000000001,1.59375
+65,frozenset({'Temperatura_Medio'}),"frozenset({'Rocio_Medio', 'Temperatura_max_Alto'})",0.4,0.2,0.2,0.5,2.5,0.12,1.6
+154,frozenset({'Temperatura_Medio'}),"frozenset({'Influenza_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.2,0.2,0.5,2.5,0.12,1.6
+168,frozenset({'Temperatura_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio'})",0.4,0.2,0.2,0.5,2.5,0.12,1.6
+320,frozenset({'Temperatura_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.2,0.2,0.5,2.5,0.12,1.6
+43,frozenset({'Temperatura_max_Alto'}),"frozenset({'Neumonia_Medio', 'Temperatura_min_Medio'})",0.45,0.225,0.225,0.5,2.2222222222222223,0.12375,1.55
+96,frozenset({'Temperatura_Medio'}),"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+112,frozenset({'Temperatura_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+130,frozenset({'Temperatura_Medio'}),"frozenset({'IRA_Alta_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+201,frozenset({'Temperatura_max_Alto'}),"frozenset({'Temperatura_Medio', 'Neumonia_Medio', 'Temperatura_min_Medio'})",0.45,0.225,0.225,0.5,2.2222222222222223,0.12375,1.55
+234,frozenset({'Temperatura_Medio'}),"frozenset({'Temperatura_max_Alto', 'MP10_Bajo', 'Temperatura_min_Medio'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+270,frozenset({'Temperatura_Medio'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+11,frozenset({'Temperatura_max_Alto'}),"frozenset({'Temperatura_Medio', 'IRA_Alta_Bajo'})",0.45,0.25,0.225,0.5,2.0,0.1125,1.5
+14,frozenset({'Temperatura_max_Alto'}),"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.45,0.25,0.225,0.5,2.0,0.1125,1.5
+17,frozenset({'MP10_Bajo'}),"frozenset({'IRA_Alta_Bajo', 'Temperatura_min_Medio'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
+51,frozenset({'MP10_Bajo'}),"frozenset({'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
+59,frozenset({'MP10_Bajo'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
+75,frozenset({'Temperatura_Medio'}),"frozenset({'Temperatura_max_Alto', 'MP10_Bajo'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
+139,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Influenza_Muy_Bajo'})","frozenset({'Temperatura_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.45,0.25,0.225,0.5,2.0,0.1125,1.5
+141,"frozenset({'Influenza_Muy_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio'})",0.45,0.25,0.225,0.5,2.0,0.1125,1.5
+225,frozenset({'MP10_Bajo'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
+282,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.425,0.2,0.2,0.4705882352941177,2.3529411764705883,0.115,1.5111111111111115
+283,"frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.425,0.2,0.2,0.4705882352941177,2.3529411764705883,0.115,1.5111111111111115
+83,"frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+84,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+244,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+250,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'Otra_causa_respiratoria_Medio', 'MP10_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+251,"frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Otra_causa_respiratoria_Medio', 'MP10_Bajo'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+262,"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'IRA_Alta_Bajo'})","frozenset({'Temperatura_Medio', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+263,"frozenset({'IRA_Alta_Bajo', 'COVID19_Confirmado_u_Muy_Bajo'})","frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_Medio', 'Temperatura_min_Medio'})",0.425,0.225,0.2,0.4705882352941177,2.0915032679738563,0.10437500000000001,1.4638888888888892
+105,frozenset({'IRA_Alta_Bajo'}),"frozenset({'Temperatura_max_Alto', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.5,0.2,0.2,0.4,2.0,0.1,1.3333333333333335
+121,frozenset({'IRA_Alta_Bajo'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio'})",0.5,0.2,0.2,0.4,2.0,0.1,1.3333333333333335
+290,frozenset({'IRA_Alta_Bajo'}),"frozenset({'COVID19_Confirmado_h_Muy_Bajo', 'Temperatura_max_Alto', 'Temperatura_min_Medio', 'COVID19_Confirmado_u_Muy_Bajo'})",0.5,0.2,0.2,0.4,2.0,0.1,1.3333333333333335
