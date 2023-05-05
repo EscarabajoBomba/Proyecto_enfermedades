@@ -1,0 +1,459 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+231,frozenset({'TA'}),"frozenset({'COVIDuB', 'RA', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+243,frozenset({'TA'}),"frozenset({'COVIDhB', 'TmaxA', 'RA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+356,"frozenset({'TA', 'BROIu_B'})","frozenset({'TmaxA', 'RA', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+360,frozenset({'TA'}),"frozenset({'TmaxA', 'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+378,"frozenset({'TA', 'BROIu_B'})","frozenset({'RA', 'COVIDhB', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+384,frozenset({'TA'}),"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+402,"frozenset({'TA', 'COVIDuB'})","frozenset({'RA', 'COVIDhB', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+404,"frozenset({'TA', 'COVIDhB'})","frozenset({'TmaxA', 'RA', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+408,frozenset({'TA'}),"frozenset({'TmaxA', 'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+434,"frozenset({'TA', 'BROIu_B', 'COVIDuB'})","frozenset({'RA', 'COVIDhB', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+439,"frozenset({'TA', 'BROIu_B', 'COVIDhB'})","frozenset({'TmaxA', 'RA', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+448,"frozenset({'TA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'COVIDhB', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+450,"frozenset({'TA', 'BROIu_B'})","frozenset({'TmaxA', 'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+451,"frozenset({'TA', 'COVIDhB'})","frozenset({'TmaxA', 'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+456,frozenset({'TA'}),"frozenset({'RA', 'COVIDuB', 'BROIu_B', 'COVIDhB', 'TmaxA'})",0.2,0.225,0.2,1.0,4.444444444444445,0.155,inf
+56,frozenset({'TA'}),"frozenset({'COVIDuB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+76,frozenset({'TA'}),"frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+81,frozenset({'TA'}),"frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+124,"frozenset({'TA', 'BROIu_B'})","frozenset({'COVIDuB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+128,frozenset({'TA'}),"frozenset({'BROIu_B', 'COVIDuB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+156,"frozenset({'TA', 'BROIu_B'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+160,frozenset({'TA'}),"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+165,"frozenset({'TA', 'BROIu_B'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+171,frozenset({'TA'}),"frozenset({'BROIu_B', 'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+216,"frozenset({'TA', 'COVIDhB'})","frozenset({'COVIDuB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+217,"frozenset({'TA', 'COVIDuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+220,frozenset({'TA'}),"frozenset({'COVIDuB', 'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+226,"frozenset({'TA', 'RA'})","frozenset({'COVIDuB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+227,"frozenset({'TA', 'COVIDuB'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+237,"frozenset({'TA', 'COVIDhB'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+239,"frozenset({'TA', 'RA'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+324,"frozenset({'TA', 'BROIu_B', 'COVIDuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+328,"frozenset({'TA', 'BROIu_B', 'COVIDhB'})","frozenset({'TmaxA', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+330,"frozenset({'TA', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+332,"frozenset({'TA', 'BROIu_B'})","frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+333,"frozenset({'TA', 'COVIDhB'})","frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+336,frozenset({'TA'}),"frozenset({'TmaxA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+344,"frozenset({'TA', 'BROIu_B', 'RA'})","frozenset({'TmaxA', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+346,"frozenset({'TA', 'BROIu_B', 'COVIDuB'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+351,"frozenset({'TA', 'RA'})","frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+354,"frozenset({'TA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+365,"frozenset({'TA', 'BROIu_B', 'RA'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+370,"frozenset({'TA', 'BROIu_B', 'COVIDhB'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+374,"frozenset({'TA', 'RA'})","frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+379,"frozenset({'TA', 'COVIDhB'})","frozenset({'BROIu_B', 'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+389,"frozenset({'TA', 'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+392,"frozenset({'TA', 'RA', 'COVIDhB'})","frozenset({'TmaxA', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+394,"frozenset({'TA', 'COVIDhB', 'COVIDuB'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+399,"frozenset({'TA', 'RA'})","frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+413,"frozenset({'TA', 'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+418,"frozenset({'TA', 'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'TmaxA', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+420,"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})","frozenset({'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+425,"frozenset({'TA', 'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+429,"frozenset({'TA', 'BROIu_B', 'RA'})","frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+430,"frozenset({'TA', 'RA', 'COVIDhB'})","frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+435,"frozenset({'TA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'TmaxA'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+444,"frozenset({'TA', 'RA'})","frozenset({'TmaxA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",0.2,0.25,0.2,1.0,4.0,0.15000000000000002,inf
+10,frozenset({'TA'}),frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+30,"frozenset({'TA', 'BROIu_B'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+32,frozenset({'TA'}),"frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+40,frozenset({'TA'}),"frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+45,frozenset({'TminA'}),"frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+54,"frozenset({'TA', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+60,frozenset({'TA'}),"frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+64,frozenset({'TminA'}),"frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+74,"frozenset({'TA', 'COVIDhB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+78,"frozenset({'TA', 'RA'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+100,"frozenset({'TA', 'BROIu_B'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+104,frozenset({'TA'}),"frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+109,"frozenset({'BROIu_B', 'TminA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+113,frozenset({'TminA'}),"frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+122,"frozenset({'TA', 'BROIu_B', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+125,"frozenset({'TA', 'COVIDuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+132,"frozenset({'TA', 'BROIu_B'})","frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+136,frozenset({'TA'}),"frozenset({'BROIu_B', 'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+140,"frozenset({'BROIu_B', 'TminA'})","frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+144,frozenset({'TminA'}),"frozenset({'BROIu_B', 'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+154,"frozenset({'TA', 'BROIu_B', 'COVIDhB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+157,"frozenset({'TA', 'COVIDhB'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+162,"frozenset({'TA', 'BROIu_B', 'RA'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+166,"frozenset({'TA', 'RA'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+180,"frozenset({'TA', 'COVIDhB'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+181,"frozenset({'TA', 'COVIDuB'})","frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+184,frozenset({'TA'}),"frozenset({'COVIDhB', 'COVIDuB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+188,"frozenset({'COVIDhB', 'TminA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+190,"frozenset({'TminA', 'COVIDuB'})","frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+192,frozenset({'TminA'}),"frozenset({'COVIDhB', 'COVIDuB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+214,"frozenset({'TA', 'COVIDhB', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+223,"frozenset({'TA', 'RA', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+225,"frozenset({'TA', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+235,"frozenset({'TA', 'COVIDhB', 'RA'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+238,"frozenset({'TA', 'TmaxA'})","frozenset({'COVIDhB', 'RA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+271,"frozenset({'TA', 'BROIu_B', 'COVIDuB'})","frozenset({'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+273,"frozenset({'TA', 'BROIu_B', 'COVIDhB'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+277,"frozenset({'TA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+278,"frozenset({'TA', 'BROIu_B'})","frozenset({'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+279,"frozenset({'TA', 'COVIDhB'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+281,frozenset({'TA'}),"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+287,"frozenset({'BROIu_B', 'TminA', 'COVIDuB'})","frozenset({'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+289,"frozenset({'BROIu_B', 'COVIDhB', 'TminA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+293,"frozenset({'TminA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+294,"frozenset({'BROIu_B', 'TminA'})","frozenset({'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+295,"frozenset({'COVIDhB', 'TminA'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+297,frozenset({'TminA'}),"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+322,"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+325,"frozenset({'TA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+338,"frozenset({'TA', 'BROIu_B', 'RA', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+341,"frozenset({'TA', 'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+349,"frozenset({'TA', 'BROIu_B', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+357,"frozenset({'TA', 'TmaxA'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+362,"frozenset({'TA', 'BROIu_B', 'RA', 'COVIDhB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+366,"frozenset({'TA', 'RA', 'COVIDhB'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+371,"frozenset({'TA', 'BROIu_B', 'TmaxA'})","frozenset({'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+380,"frozenset({'TA', 'TmaxA'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+386,"frozenset({'TA', 'RA', 'COVIDhB', 'COVIDuB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+395,"frozenset({'TA', 'TmaxA', 'COVIDuB'})","frozenset({'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+397,"frozenset({'TA', 'COVIDhB', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+405,"frozenset({'TA', 'TmaxA'})","frozenset({'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+410,"frozenset({'RA', 'COVIDuB', 'TA', 'BROIu_B', 'COVIDhB'})",frozenset({'TmaxA'}),0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+414,"frozenset({'TA', 'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+421,"frozenset({'TA', 'TmaxA', 'BROIu_B', 'COVIDuB'})","frozenset({'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+424,"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+436,"frozenset({'TA', 'TmaxA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+440,"frozenset({'TA', 'BROIu_B', 'TmaxA'})","frozenset({'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+441,"frozenset({'TA', 'COVIDhB', 'TmaxA'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+452,"frozenset({'TA', 'TmaxA'})","frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",0.2,0.325,0.2,1.0,3.0769230769230766,0.135,inf
+0,frozenset({'TA'}),frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+3,frozenset({'TminA'}),frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+14,"frozenset({'TA', 'BROIu_B'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+16,frozenset({'TA'}),"frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+19,"frozenset({'BROIu_B', 'TminA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+21,frozenset({'TminA'}),"frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+38,"frozenset({'TA', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+43,"frozenset({'TminA', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+58,"frozenset({'TA', 'COVIDhB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+62,"frozenset({'COVIDhB', 'TminA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+79,"frozenset({'TA', 'TmaxA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+98,"frozenset({'TA', 'BROIu_B', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+101,"frozenset({'TA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+107,"frozenset({'BROIu_B', 'TminA', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+111,"frozenset({'TminA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+130,"frozenset({'TA', 'BROIu_B', 'COVIDhB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+133,"frozenset({'TA', 'COVIDhB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+138,"frozenset({'BROIu_B', 'COVIDhB', 'TminA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+142,"frozenset({'COVIDhB', 'TminA'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+163,"frozenset({'TA', 'BROIu_B', 'TmaxA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+167,"frozenset({'TA', 'TmaxA'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+178,"frozenset({'TA', 'COVIDhB', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+186,"frozenset({'COVIDhB', 'TminA', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+222,"frozenset({'TA', 'COVIDuB', 'TmaxA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+234,"frozenset({'TA', 'COVIDhB', 'TmaxA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+267,"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+272,"frozenset({'TA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+283,"frozenset({'BROIu_B', 'COVIDhB', 'TminA', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+288,"frozenset({'COVIDhB', 'TminA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+340,"frozenset({'TA', 'TmaxA', 'BROIu_B', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+347,"frozenset({'TA', 'TmaxA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+364,"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'TmaxA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+372,"frozenset({'TA', 'COVIDhB', 'TmaxA'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+388,"frozenset({'TA', 'TmaxA', 'COVIDhB', 'COVIDuB'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+412,"frozenset({'COVIDuB', 'TA', 'BROIu_B', 'COVIDhB', 'TmaxA'})",frozenset({'RA'}),0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+422,"frozenset({'TA', 'TmaxA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.2,0.375,0.2,1.0,2.6666666666666665,0.125,inf
+6,frozenset({'TminMB'}),frozenset({'TMB'}),0.25,0.275,0.225,0.9,3.2727272727272725,0.15625,7.250000000000002
+196,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.25,0.325,0.225,0.9,2.769230769230769,0.14375,6.750000000000002
+197,"frozenset({'COVIDuB', 'TmaxA'})","frozenset({'COVIDhB', 'RA'})",0.25,0.325,0.225,0.9,2.769230769230769,0.14375,6.750000000000002
+303,"frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})","frozenset({'RA', 'COVIDhB'})",0.25,0.325,0.225,0.9,2.769230769230769,0.14375,6.750000000000002
+305,"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.25,0.325,0.225,0.9,2.769230769230769,0.14375,6.750000000000002
+309,"frozenset({'TmaxA', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.25,0.325,0.225,0.9,2.769230769230769,0.14375,6.750000000000002
+311,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.25,0.325,0.225,0.9,2.769230769230769,0.14375,6.750000000000002
+46,"frozenset({'COVIDuB', 'TmaxA'})",frozenset({'RA'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+66,"frozenset({'COVIDhB', 'TmaxA'})",frozenset({'RA'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+114,"frozenset({'BROIu_B', 'COVIDuB', 'TmaxA'})",frozenset({'RA'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+117,"frozenset({'COVIDuB', 'TmaxA'})","frozenset({'BROIu_B', 'RA'})",0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+146,"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",frozenset({'RA'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+150,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'BROIu_B', 'RA'})",0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+194,"frozenset({'COVIDuB', 'COVIDhB', 'TmaxA'})",frozenset({'RA'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+299,"frozenset({'TmaxA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",frozenset({'RA'}),0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+304,"frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'RA'})",0.25,0.375,0.225,0.9,2.4,0.13125,6.250000000000002
+224,"frozenset({'COVIDuB', 'RA', 'TmaxA'})",frozenset({'TA'}),0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+236,"frozenset({'COVIDhB', 'TmaxA', 'RA'})",frozenset({'TA'}),0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+339,"frozenset({'TmaxA', 'BROIu_B', 'RA', 'COVIDuB'})",frozenset({'TA'}),0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+343,"frozenset({'TmaxA', 'RA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+363,"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'TmaxA'})",frozenset({'TA'}),0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+369,"frozenset({'RA', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'BROIu_B'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+387,"frozenset({'TmaxA', 'RA', 'COVIDhB', 'COVIDuB'})",frozenset({'TA'}),0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+391,"frozenset({'TmaxA', 'RA', 'COVIDuB'})","frozenset({'TA', 'COVIDhB'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+393,"frozenset({'RA', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+411,"frozenset({'RA', 'COVIDuB', 'BROIu_B', 'COVIDhB', 'TmaxA'})",frozenset({'TA'}),0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+416,"frozenset({'TmaxA', 'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'TA', 'COVIDhB'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+417,"frozenset({'TmaxA', 'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'BROIu_B'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+419,"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+428,"frozenset({'TmaxA', 'RA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'COVIDhB'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+433,"frozenset({'RA', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'COVIDuB'})",0.225,0.2,0.2,0.888888888888889,4.444444444444445,0.155,7.200000000000005
+26,"frozenset({'BROIu_B', 'TminMB'})",frozenset({'TMB'}),0.225,0.275,0.2,0.888888888888889,3.2323232323232323,0.138125,6.525000000000003
+252,"frozenset({'HM', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'COBuB'})",0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+253,"frozenset({'HM', 'COVIDhB'})","frozenset({'BROIu_B', 'COVIDuB', 'COBuB'})",0.225,0.4,0.2,0.888888888888889,2.2222222222222223,0.11,5.400000000000003
+7,frozenset({'TMB'}),frozenset({'TminMB'}),0.275,0.25,0.225,0.8181818181818181,3.2727272727272725,0.15625,4.124999999999998
+55,"frozenset({'COVIDuB', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+75,"frozenset({'COVIDhB', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+80,"frozenset({'RA', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+123,"frozenset({'BROIu_B', 'COVIDuB', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+127,"frozenset({'COVIDuB', 'TmaxA'})","frozenset({'TA', 'BROIu_B'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+155,"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+159,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'BROIu_B'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+164,"frozenset({'BROIu_B', 'RA', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+170,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'BROIu_B'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+215,"frozenset({'COVIDuB', 'COVIDhB', 'TmaxA'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+218,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+219,"frozenset({'COVIDuB', 'TmaxA'})","frozenset({'TA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+228,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+229,"frozenset({'COVIDuB', 'TmaxA'})","frozenset({'TA', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+240,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+242,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+323,"frozenset({'TmaxA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",frozenset({'TA'}),0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+326,"frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})","frozenset({'TA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+327,"frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'BROIu_B'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+329,"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+331,"frozenset({'TmaxA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+335,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+345,"frozenset({'BROIu_B', 'RA', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+348,"frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})","frozenset({'TA', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+353,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+355,"frozenset({'TmaxA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+368,"frozenset({'BROIu_B', 'RA', 'TmaxA'})","frozenset({'TA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+373,"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+377,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+382,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+396,"frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+401,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'COVIDhB', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+403,"frozenset({'TmaxA', 'COVIDuB'})","frozenset({'TA', 'RA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+406,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'RA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+423,"frozenset({'TmaxA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+432,"frozenset({'BROIu_B', 'RA', 'TmaxA'})","frozenset({'TA', 'COVIDhB', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+437,"frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})","frozenset({'TA', 'RA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+438,"frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'RA'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+442,"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})","frozenset({'TA', 'RA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+447,"frozenset({'RA', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+449,"frozenset({'TmaxA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'RA', 'COVIDhB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+454,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'TA', 'BROIu_B', 'RA', 'COVIDuB'})",0.25,0.2,0.2,0.8,4.0,0.15000000000000002,4.000000000000001
+27,"frozenset({'BROIu_B', 'TMB'})",frozenset({'TminMB'}),0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+28,frozenset({'TminMB'}),"frozenset({'BROIu_B', 'TMB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+50,"frozenset({'TM', 'COVIDuB'})",frozenset({'TminM'}),0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+53,frozenset({'TminM'}),"frozenset({'TM', 'COVIDuB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+70,"frozenset({'TM', 'COVIDhB'})",frozenset({'TminM'}),0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+73,frozenset({'TminM'}),"frozenset({'TM', 'COVIDhB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+206,"frozenset({'TM', 'COVIDhB', 'COVIDuB'})",frozenset({'TminM'}),0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+208,"frozenset({'TM', 'COVIDhB'})","frozenset({'TminM', 'COVIDuB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+209,"frozenset({'TM', 'COVIDuB'})","frozenset({'TminM', 'COVIDhB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+210,"frozenset({'TminM', 'COVIDhB'})","frozenset({'TM', 'COVIDuB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+211,"frozenset({'TminM', 'COVIDuB'})","frozenset({'TM', 'COVIDhB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+213,frozenset({'TminM'}),"frozenset({'TM', 'COVIDhB', 'COVIDuB'})",0.25,0.25,0.2,0.8,3.2,0.1375,3.750000000000001
+9,frozenset({'TminM'}),frozenset({'TM'}),0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+51,"frozenset({'TminM', 'COVIDuB'})",frozenset({'TM'}),0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+71,"frozenset({'TminM', 'COVIDhB'})",frozenset({'TM'}),0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+207,"frozenset({'TminM', 'COVIDhB', 'COVIDuB'})",frozenset({'TM'}),0.25,0.275,0.2,0.8,2.909090909090909,0.13125,3.625000000000001
+256,"frozenset({'TmaxA', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'COBuB'})",0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+257,"frozenset({'COVIDhB', 'TmaxA'})","frozenset({'BROIu_B', 'COVIDuB', 'COBuB'})",0.25,0.4,0.2,0.8,2.0,0.1,3.0000000000000004
+5,frozenset({'TmaxA'}),frozenset({'RA'}),0.325,0.375,0.25,0.7692307692307692,2.051282051282051,0.128125,2.7083333333333326
+23,"frozenset({'BROIu_B', 'TmaxA'})",frozenset({'RA'}),0.325,0.375,0.25,0.7692307692307692,2.051282051282051,0.128125,2.7083333333333326
+25,frozenset({'TmaxA'}),"frozenset({'BROIu_B', 'RA'})",0.325,0.375,0.25,0.7692307692307692,2.051282051282051,0.128125,2.7083333333333326
+84,"frozenset({'INFu_B', 'RA'})","frozenset({'BROIu_B', 'IRASu_B'})",0.3,0.375,0.225,0.75,2.0,0.11250000000000002,2.5
+29,frozenset({'TMB'}),"frozenset({'BROIu_B', 'TminMB'})",0.275,0.225,0.2,0.7272727272727273,3.2323232323232323,0.138125,2.841666666666667
+8,frozenset({'TM'}),frozenset({'TminM'}),0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+52,frozenset({'TM'}),"frozenset({'TminM', 'COVIDuB'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+72,frozenset({'TM'}),"frozenset({'TminM', 'COVIDhB'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+212,frozenset({'TM'}),"frozenset({'TminM', 'COVIDhB', 'COVIDuB'})",0.275,0.25,0.2,0.7272727272727273,2.909090909090909,0.13125,2.75
+36,"frozenset({'RA', 'COBuB'})",frozenset({'TmaxA'}),0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+94,"frozenset({'BROIu_B', 'RA', 'COBuB'})",frozenset({'TmaxA'}),0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+96,"frozenset({'RA', 'COBuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+316,"frozenset({'BROIu_B', 'COVIDuB', 'MP10B'})","frozenset({'RA', 'COVIDhB'})",0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+317,"frozenset({'BROIu_B', 'COVIDhB', 'MP10B'})","frozenset({'RA', 'COVIDuB'})",0.275,0.325,0.2,0.7272727272727273,2.237762237762238,0.110625,2.4750000000000005
+34,"frozenset({'TmaxA', 'COBuB'})",frozenset({'HM'}),0.275,0.35,0.2,0.7272727272727273,2.077922077922078,0.10375000000000001,2.3833333333333337
+90,"frozenset({'BROIu_B', 'TmaxA', 'COBuB'})",frozenset({'HM'}),0.275,0.35,0.2,0.7272727272727273,2.077922077922078,0.10375000000000001,2.3833333333333337
+92,"frozenset({'TmaxA', 'COBuB'})","frozenset({'BROIu_B', 'HM'})",0.275,0.35,0.2,0.7272727272727273,2.077922077922078,0.10375000000000001,2.3833333333333337
+198,"frozenset({'COVIDhB', 'RA'})","frozenset({'COVIDuB', 'TmaxA'})",0.325,0.25,0.225,0.6923076923076923,2.769230769230769,0.14375,2.4375
+199,"frozenset({'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.325,0.25,0.225,0.6923076923076923,2.769230769230769,0.14375,2.4375
+300,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.325,0.25,0.225,0.6923076923076923,2.769230769230769,0.14375,2.4375
+302,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'TmaxA', 'COVIDuB'})",0.325,0.25,0.225,0.6923076923076923,2.769230769230769,0.14375,2.4375
+306,"frozenset({'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",0.325,0.25,0.225,0.6923076923076923,2.769230769230769,0.14375,2.4375
+308,"frozenset({'RA', 'COVIDhB'})","frozenset({'TmaxA', 'BROIu_B', 'COVIDuB'})",0.325,0.25,0.225,0.6923076923076923,2.769230769230769,0.14375,2.4375
+47,"frozenset({'RA', 'COVIDuB'})",frozenset({'TmaxA'}),0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+48,frozenset({'TmaxA'}),"frozenset({'RA', 'COVIDuB'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+67,"frozenset({'COVIDhB', 'RA'})",frozenset({'TmaxA'}),0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+68,frozenset({'TmaxA'}),"frozenset({'COVIDhB', 'RA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+115,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})",frozenset({'TmaxA'}),0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+116,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'RA', 'COVIDuB'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+119,"frozenset({'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+120,frozenset({'TmaxA'}),"frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+147,"frozenset({'BROIu_B', 'COVIDhB', 'RA'})",frozenset({'TmaxA'}),0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+148,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'COVIDhB', 'RA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+151,"frozenset({'COVIDhB', 'RA'})","frozenset({'BROIu_B', 'TmaxA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+152,frozenset({'TmaxA'}),"frozenset({'BROIu_B', 'COVIDhB', 'RA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+195,"frozenset({'COVIDhB', 'COVIDuB', 'RA'})",frozenset({'TmaxA'}),0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+200,frozenset({'TmaxA'}),"frozenset({'COVIDhB', 'COVIDuB', 'RA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+298,"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",frozenset({'TmaxA'}),0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+301,"frozenset({'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'TmaxA'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+310,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'RA', 'COVIDhB', 'COVIDuB'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+313,frozenset({'TmaxA'}),"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",0.325,0.325,0.225,0.6923076923076923,2.130177514792899,0.119375,2.19375
+246,"frozenset({'INFu_B', 'COVIDuB', 'COBuB'})","frozenset({'COVIDhB', 'IRASu_B'})",0.3,0.3,0.2,0.6666666666666667,2.2222222222222228,0.11000000000000001,2.1000000000000005
+247,"frozenset({'INFu_B', 'COVIDhB', 'COBuB'})","frozenset({'IRASu_B', 'COVIDuB'})",0.3,0.3,0.2,0.6666666666666667,2.2222222222222228,0.11000000000000001,2.1000000000000005
+248,"frozenset({'IRASu_B', 'COVIDuB'})","frozenset({'INFu_B', 'COVIDhB', 'COBuB'})",0.3,0.3,0.2,0.6666666666666667,2.2222222222222228,0.11000000000000001,2.1000000000000005
+249,"frozenset({'COVIDhB', 'IRASu_B'})","frozenset({'INFu_B', 'COVIDuB', 'COBuB'})",0.3,0.3,0.2,0.6666666666666667,2.2222222222222228,0.11000000000000001,2.1000000000000005
+12,"frozenset({'INFu_B', 'RA'})",frozenset({'TmaxA'}),0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+86,"frozenset({'INFu_B', 'BROIu_B', 'RA'})",frozenset({'TmaxA'}),0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+87,"frozenset({'INFu_B', 'RA'})","frozenset({'BROIu_B', 'TmaxA'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+174,"frozenset({'OCRuB', 'COVIDhB'})","frozenset({'RA', 'COVIDuB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+175,"frozenset({'OCRuB', 'COVIDuB'})","frozenset({'COVIDhB', 'RA'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+204,"frozenset({'COVIDhB', 'MP10B'})","frozenset({'RA', 'COVIDuB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+205,"frozenset({'COVIDuB', 'MP10B'})","frozenset({'RA', 'COVIDhB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+260,"frozenset({'OCRuB', 'BROIu_B', 'COVIDhB'})","frozenset({'RA', 'COVIDuB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+261,"frozenset({'BROIu_B', 'OCRuB', 'COVIDuB'})","frozenset({'RA', 'COVIDhB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+264,"frozenset({'OCRuB', 'COVIDhB'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+265,"frozenset({'OCRuB', 'COVIDuB'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+320,"frozenset({'COVIDuB', 'MP10B'})","frozenset({'BROIu_B', 'RA', 'COVIDhB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+321,"frozenset({'COVIDhB', 'MP10B'})","frozenset({'BROIu_B', 'RA', 'COVIDuB'})",0.3,0.325,0.2,0.6666666666666667,2.0512820512820515,0.10250000000000001,2.025000000000001
+4,frozenset({'RA'}),frozenset({'TmaxA'}),0.375,0.325,0.25,0.6666666666666666,2.051282051282051,0.128125,2.025
+22,"frozenset({'BROIu_B', 'RA'})",frozenset({'TmaxA'}),0.375,0.325,0.25,0.6666666666666666,2.051282051282051,0.128125,2.025
+24,frozenset({'RA'}),"frozenset({'BROIu_B', 'TmaxA'})",0.375,0.325,0.25,0.6666666666666666,2.051282051282051,0.128125,2.025
+11,frozenset({'TmaxA'}),frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+31,"frozenset({'BROIu_B', 'TmaxA'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+33,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+39,"frozenset({'RA', 'COVIDuB'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+42,"frozenset({'RA', 'COVIDuB'})",frozenset({'TminA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+57,frozenset({'TmaxA'}),"frozenset({'TA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+59,"frozenset({'COVIDhB', 'RA'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+63,"frozenset({'COVIDhB', 'RA'})",frozenset({'TminA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+77,frozenset({'TmaxA'}),"frozenset({'TA', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+83,frozenset({'TmaxA'}),"frozenset({'TA', 'RA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+99,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+103,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+106,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})",frozenset({'TminA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+110,"frozenset({'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'TminA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+126,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+129,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+131,"frozenset({'BROIu_B', 'COVIDhB', 'RA'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+135,"frozenset({'COVIDhB', 'RA'})","frozenset({'TA', 'BROIu_B'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+139,"frozenset({'BROIu_B', 'COVIDhB', 'RA'})",frozenset({'TminA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+143,"frozenset({'COVIDhB', 'RA'})","frozenset({'BROIu_B', 'TminA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+158,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+161,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+169,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'RA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+173,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B', 'RA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+179,"frozenset({'COVIDhB', 'COVIDuB', 'RA'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+182,"frozenset({'COVIDhB', 'RA'})","frozenset({'TA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+183,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+187,"frozenset({'COVIDhB', 'COVIDuB', 'RA'})",frozenset({'TminA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+189,"frozenset({'COVIDhB', 'RA'})","frozenset({'TminA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+191,"frozenset({'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'TminA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+221,frozenset({'TmaxA'}),"frozenset({'TA', 'COVIDhB', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+230,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+232,frozenset({'TmaxA'}),"frozenset({'TA', 'RA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+241,"frozenset({'COVIDhB', 'RA'})","frozenset({'TA', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+244,frozenset({'TmaxA'}),"frozenset({'TA', 'COVIDhB', 'RA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+266,"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",frozenset({'TA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+268,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'TA', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+269,"frozenset({'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'BROIu_B'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+270,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'TA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+274,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+276,"frozenset({'RA', 'COVIDhB'})","frozenset({'TA', 'BROIu_B', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+282,"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})",frozenset({'TminA'}),0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+284,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'TminA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+285,"frozenset({'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'BROIu_B', 'TminA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+286,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'TminA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+290,"frozenset({'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'TminA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+292,"frozenset({'RA', 'COVIDhB'})","frozenset({'BROIu_B', 'TminA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+334,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'COVIDhB', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+337,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+342,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'TA', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+350,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+358,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'RA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+361,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B', 'RA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+367,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'TA', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+376,"frozenset({'RA', 'COVIDhB'})","frozenset({'TA', 'BROIu_B', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+381,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'RA', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+385,frozenset({'TmaxA'}),"frozenset({'TA', 'BROIu_B', 'RA', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+390,"frozenset({'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+398,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'COVIDhB', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+400,"frozenset({'RA', 'COVIDhB'})","frozenset({'TA', 'TmaxA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+409,frozenset({'TmaxA'}),"frozenset({'TA', 'RA', 'COVIDhB', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+415,"frozenset({'BROIu_B', 'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+426,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'TA', 'COVIDhB', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+427,"frozenset({'RA', 'COVIDhB', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+431,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'TA', 'TmaxA', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+443,"frozenset({'RA', 'COVIDuB'})","frozenset({'TA', 'BROIu_B', 'COVIDhB', 'TmaxA'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+446,"frozenset({'RA', 'COVIDhB'})","frozenset({'TA', 'TmaxA', 'BROIu_B', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+453,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'TA', 'RA', 'COVIDhB', 'COVIDuB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+457,frozenset({'TmaxA'}),"frozenset({'RA', 'COVIDuB', 'TA', 'BROIu_B', 'COVIDhB'})",0.325,0.2,0.2,0.6153846153846154,3.076923076923077,0.135,2.0800000000000005
+37,frozenset({'TmaxA'}),"frozenset({'RA', 'COBuB'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+95,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'RA', 'COBuB'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+97,frozenset({'TmaxA'}),"frozenset({'BROIu_B', 'RA', 'COBuB'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+318,"frozenset({'RA', 'COVIDuB'})","frozenset({'BROIu_B', 'COVIDhB', 'MP10B'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+319,"frozenset({'RA', 'COVIDhB'})","frozenset({'BROIu_B', 'COVIDuB', 'MP10B'})",0.325,0.275,0.2,0.6153846153846154,2.237762237762238,0.110625,1.885
+13,frozenset({'TmaxA'}),"frozenset({'INFu_B', 'RA'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+88,"frozenset({'BROIu_B', 'TmaxA'})","frozenset({'INFu_B', 'RA'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+89,frozenset({'TmaxA'}),"frozenset({'INFu_B', 'BROIu_B', 'RA'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+176,"frozenset({'COVIDhB', 'RA'})","frozenset({'OCRuB', 'COVIDuB'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+177,"frozenset({'RA', 'COVIDuB'})","frozenset({'OCRuB', 'COVIDhB'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+202,"frozenset({'RA', 'COVIDhB'})","frozenset({'COVIDuB', 'MP10B'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+203,"frozenset({'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'MP10B'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+258,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'OCRuB', 'COVIDuB'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+259,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'OCRuB', 'COVIDhB'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+262,"frozenset({'RA', 'COVIDhB'})","frozenset({'BROIu_B', 'OCRuB', 'COVIDuB'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+263,"frozenset({'RA', 'COVIDuB'})","frozenset({'OCRuB', 'BROIu_B', 'COVIDhB'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+314,"frozenset({'BROIu_B', 'RA', 'COVIDuB'})","frozenset({'COVIDhB', 'MP10B'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+315,"frozenset({'BROIu_B', 'RA', 'COVIDhB'})","frozenset({'COVIDuB', 'MP10B'})",0.325,0.3,0.2,0.6153846153846154,2.0512820512820515,0.10250000000000001,1.82
+49,frozenset({'RA'}),"frozenset({'COVIDuB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+69,frozenset({'RA'}),"frozenset({'COVIDhB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+118,"frozenset({'BROIu_B', 'RA'})","frozenset({'COVIDuB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+121,frozenset({'RA'}),"frozenset({'BROIu_B', 'COVIDuB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+149,"frozenset({'BROIu_B', 'RA'})","frozenset({'COVIDhB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+153,frozenset({'RA'}),"frozenset({'BROIu_B', 'COVIDhB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+201,frozenset({'RA'}),"frozenset({'COVIDuB', 'COVIDhB', 'TmaxA'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+307,"frozenset({'BROIu_B', 'RA'})","frozenset({'TmaxA', 'COVIDhB', 'COVIDuB'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+312,frozenset({'RA'}),"frozenset({'TmaxA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",0.375,0.25,0.225,0.6,2.4,0.13125,1.875
+85,"frozenset({'BROIu_B', 'IRASu_B'})","frozenset({'INFu_B', 'RA'})",0.375,0.3,0.225,0.6,2.0,0.11250000000000002,1.7499999999999998
+35,frozenset({'HM'}),"frozenset({'TmaxA', 'COBuB'})",0.35,0.275,0.2,0.5714285714285715,2.077922077922078,0.10375000000000001,1.6916666666666669
+91,"frozenset({'BROIu_B', 'HM'})","frozenset({'TmaxA', 'COBuB'})",0.35,0.275,0.2,0.5714285714285715,2.077922077922078,0.10375000000000001,1.6916666666666669
+93,frozenset({'HM'}),"frozenset({'BROIu_B', 'TmaxA', 'COBuB'})",0.35,0.275,0.2,0.5714285714285715,2.077922077922078,0.10375000000000001,1.6916666666666669
+1,frozenset({'RA'}),frozenset({'TA'}),0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+2,frozenset({'RA'}),frozenset({'TminA'}),0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+15,"frozenset({'BROIu_B', 'RA'})",frozenset({'TA'}),0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+17,frozenset({'RA'}),"frozenset({'TA', 'BROIu_B'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+18,"frozenset({'BROIu_B', 'RA'})",frozenset({'TminA'}),0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+20,frozenset({'RA'}),"frozenset({'BROIu_B', 'TminA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+41,frozenset({'RA'}),"frozenset({'TA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+44,frozenset({'RA'}),"frozenset({'TminA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+61,frozenset({'RA'}),"frozenset({'TA', 'COVIDhB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+65,frozenset({'RA'}),"frozenset({'COVIDhB', 'TminA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+82,frozenset({'RA'}),"frozenset({'TA', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+102,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+105,frozenset({'RA'}),"frozenset({'TA', 'BROIu_B', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+108,"frozenset({'BROIu_B', 'RA'})","frozenset({'TminA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+112,frozenset({'RA'}),"frozenset({'BROIu_B', 'TminA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+134,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'COVIDhB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+137,frozenset({'RA'}),"frozenset({'TA', 'BROIu_B', 'COVIDhB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+141,"frozenset({'BROIu_B', 'RA'})","frozenset({'COVIDhB', 'TminA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+145,frozenset({'RA'}),"frozenset({'BROIu_B', 'COVIDhB', 'TminA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+168,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+172,frozenset({'RA'}),"frozenset({'TA', 'BROIu_B', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+185,frozenset({'RA'}),"frozenset({'TA', 'COVIDhB', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+193,frozenset({'RA'}),"frozenset({'COVIDhB', 'TminA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+233,frozenset({'RA'}),"frozenset({'TA', 'COVIDuB', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+245,frozenset({'RA'}),"frozenset({'TA', 'COVIDhB', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+275,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'COVIDhB', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+280,frozenset({'RA'}),"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+291,"frozenset({'BROIu_B', 'RA'})","frozenset({'COVIDhB', 'TminA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+296,frozenset({'RA'}),"frozenset({'BROIu_B', 'COVIDhB', 'TminA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+352,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'TmaxA', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+359,frozenset({'RA'}),"frozenset({'TA', 'TmaxA', 'BROIu_B', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+375,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'COVIDhB', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+383,frozenset({'RA'}),"frozenset({'TA', 'BROIu_B', 'COVIDhB', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+407,frozenset({'RA'}),"frozenset({'TA', 'TmaxA', 'COVIDhB', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+445,"frozenset({'BROIu_B', 'RA'})","frozenset({'TA', 'TmaxA', 'COVIDhB', 'COVIDuB'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+455,frozenset({'RA'}),"frozenset({'COVIDuB', 'TA', 'BROIu_B', 'COVIDhB', 'TmaxA'})",0.375,0.2,0.2,0.5333333333333333,2.6666666666666665,0.125,1.7142857142857144
+250,"frozenset({'BROIu_B', 'COVIDuB', 'COBuB'})","frozenset({'HM', 'COVIDhB'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+251,"frozenset({'BROIu_B', 'COVIDhB', 'COBuB'})","frozenset({'HM', 'COVIDuB'})",0.4,0.225,0.2,0.5,2.2222222222222223,0.11,1.55
+254,"frozenset({'BROIu_B', 'COVIDuB', 'COBuB'})","frozenset({'COVIDhB', 'TmaxA'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
+255,"frozenset({'BROIu_B', 'COVIDhB', 'COBuB'})","frozenset({'TmaxA', 'COVIDuB'})",0.4,0.25,0.2,0.5,2.0,0.1,1.5
